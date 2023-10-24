@@ -8,7 +8,7 @@ This is a registration form application that allows users to input their first n
 
 - **Input Fields:** Users can enter their first name, last name, email address, time of arrival, and referral information.
 
-- **Input Validation:** The application validates the input data to ensure accuracy and completeness.
+- **Input Validation:** The application validates the input data and displays any error messages.
 
 - **Email Confirmation:** A confirmation email is sent to the provided email address to confirm the registration.
 
